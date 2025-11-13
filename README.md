@@ -12,7 +12,7 @@ The project highlights practical data wrangling, integration of structured and s
 
 ## Project Overview
 
-To produce a clean, analysis-ready dataset that can be used to explore policy questions around \*\*energy poverty\*\*. For example, whether households from different socio-economic backgrounds respond differently to cold weather in their electricity usage.
+This project aims to produce a clean, analysis-ready dataset that can be used to explore policy questions around **energy poverty**. For example, whether households from different socio-economic backgrounds respond differently to cold weather in their electricity usage.
 
 
 
