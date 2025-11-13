@@ -76,7 +76,7 @@ This will run the following:
 
 ## PowerBI Dashboard
 
-File: **Work Sample PBI.pbix**
+File: **outputs/Work Sample PBI.pbix**
 
 The Power BI dashboard  demonstrates the integration of the cleaned dataset into an interactive dashboard built in Power BI. 
 
